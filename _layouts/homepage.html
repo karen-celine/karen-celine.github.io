@@ -65,6 +65,12 @@
           <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
         </a>  
         {% endif %}
+        
+        {% if site.orcid %}
+        <a style="margin: 0 0 0 0" href="{{ site.orcid }}">
+          <i class="ai ai-orcid" style="font-size:1.2rem"></i>
+        </a>
+        {% endif %}
 
         {% if site.cv_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
@@ -104,7 +110,7 @@
       <br>
 
       {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
+      <p><small>Powered by Jekyll and <a href="https://github.com/Xiao-Chenguang/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
       {% endif %}
 
       </section>
