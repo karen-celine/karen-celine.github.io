@@ -5,37 +5,19 @@ main:
     conference_short: AAMAS
     conference: 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2025
     pdf: https://arxiv.org/pdf/2412.15472
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    notes: Forthcoming
 
   - title: Quasi-isometric reductions between infinite strings
     authors: <strong>Karen Frilya Celine</strong>, Ziyuan Gao, Sanjay Jain, Ryan Lou, Frank Stephan, and Guohua Wu
     conference_short: MFCS
     conference:  49th International Symposium on Mathematical Foundations of Computer Science (MFCS), 2024
     pdf: https://arxiv.org/pdf/2407.14105
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    # notes: Early Accept
 
   - title: Egalitarian price of fairness for indivisible goods
     authors: <strong>Karen Frilya Celine</strong>, Muhammad Ayaz Dzulfikar, and Ivan Adrian Koswara
     conference_short: PRICAI
     conference: 20th Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2023
     pdf: https://arxiv.org/pdf/2402.16145
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    # notes: Early Accept
 
   - title: Bi-immunity over different size alphabets
     authors: Cristian S. Calude, <strong>Karen Frilya Celine</strong>, Ziyuan Gao, Sanjay Jain, Ludwig Staiger, and Frank Stephan
-    # conference_short: MICCAI
     conference: Theoretical Computer Science, 2021
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    # notes: Early Accept
