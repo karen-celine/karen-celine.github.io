@@ -1,23 +1,31 @@
 main:
 
-  - title: On the fairness of additive welfarist rules
-    authors: <strong>Karen Frilya Celine</strong>, Warut Suksompong, and Sheung Man Yuen
-    conference_short: AAMAS
-    conference: 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2025
-    pdf: https://arxiv.org/pdf/2412.15472
-
   - title: Quasi-isometric reductions between infinite strings
     authors: <strong>Karen Frilya Celine</strong>, Ziyuan Gao, Sanjay Jain, Ryan Lou, Frank Stephan, and Guohua Wu
-    conference_short: MFCS
-    conference:  49th International Symposium on Mathematical Foundations of Computer Science (MFCS), 2024
+    periodical: Journal of Computer and System Sciences, 2025
+    preliminary: Proceedings of the 49th International Symposium on Mathematical Foundations of Computer Science (MFCS), 2024
+    journal: https://www.sciencedirect.com/science/article/pii/S002200002500100X
+    conference: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.MFCS.2024.37
     pdf: https://arxiv.org/pdf/2407.14105
+
+  - title: On the fairness of additive welfarist rules
+    authors: <strong>Karen Frilya Celine</strong>, Warut Suksompong, and Sheung Man Yuen
+    periodical: Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2025
+    conference: https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p454.pdf
+    pdf: https://arxiv.org/pdf/2412.15472
+
+  - title: Balancing fairness and efficiency in the allocation of indivisible goods
+    periodical: Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2025
+    conference: https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p2920.pdf
+    notes: Doctoral Consortium Track
 
   - title: Egalitarian price of fairness for indivisible goods
     authors: <strong>Karen Frilya Celine</strong>, Muhammad Ayaz Dzulfikar, and Ivan Adrian Koswara
-    conference_short: PRICAI
-    conference: 20th Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2023
+    periodical: Proceedings of the 20th Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2023
+    conference: https://link.springer.com/chapter/10.1007/978-981-99-7019-3_3
     pdf: https://arxiv.org/pdf/2402.16145
 
   - title: Bi-immunity over different size alphabets
     authors: Cristian S. Calude, <strong>Karen Frilya Celine</strong>, Ziyuan Gao, Sanjay Jain, Ludwig Staiger, and Frank Stephan
-    conference: Theoretical Computer Science, 2021
+    periodical: Theoretical Computer Science, 2021
+    journal: https://www.sciencedirect.com/science/article/pii/S0304397521005181
