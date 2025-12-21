@@ -1,8 +1,13 @@
 main:
 
+  - title: Comparing the fairness of recursively balanced picking sequences
+    authors: <strong>Karen Frilya Celine</strong>, Warut Suksompong, and Sheung Man Yuen
+    periodical: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026
+    notes: Forthcoming
+
   - title: Quasi-isometric reductions between infinite strings
     authors: <strong>Karen Frilya Celine</strong>, Ziyuan Gao, Sanjay Jain, Ryan Lou, Frank Stephan, and Guohua Wu
-    periodical: Journal of Computer and System Sciences, 2025
+    periodical: Journal of Computer and System Sciences, 2026
     preliminary: Proceedings of the 49th International Symposium on Mathematical Foundations of Computer Science (MFCS), 2024
     journal: https://www.sciencedirect.com/science/article/pii/S002200002500100X
     conference: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.MFCS.2024.37
@@ -15,6 +20,7 @@ main:
     pdf: https://arxiv.org/pdf/2412.15472
 
   - title: Balancing fairness and efficiency in the allocation of indivisible goods
+    authors: <strong>Karen Frilya Celine</strong>
     periodical: Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2025
     conference: https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p2920.pdf
     notes: Doctoral Consortium Track
