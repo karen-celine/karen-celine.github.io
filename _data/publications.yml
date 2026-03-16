@@ -7,6 +7,8 @@ main:
     journal: https://dl.acm.org/doi/10.1145/3793253
     conference: https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p454.pdf
     pdf: https://arxiv.org/pdf/2412.15472
+    slides: assets/files/slides/welfarist_rules.pdf
+    poster: assets/files/poster/welfarist_rules.pdf
 
   - title: Comparing the fairness of recursively balanced picking sequences
     authors: <strong>Karen Frilya Celine</strong>, Warut Suksompong, and Sheung Man Yuen
@@ -27,12 +29,15 @@ main:
     periodical: Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), May&nbsp;2025
     conference: https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p2920.pdf
     notes: Doctoral Consortium Track
+    slides: assets/files/slides/aamas_dc.pdf
+    poster: assets/files/poster/aamas_dc.pdf
 
   - title: Egalitarian price of fairness for indivisible goods
     authors: <strong>Karen Frilya Celine</strong>, Muhammad Ayaz Dzulfikar, and Ivan Adrian Koswara
     periodical: Proceedings of the 20th Pacific Rim International Conference on Artificial Intelligence (PRICAI), Nov&nbsp;2023
     conference: https://link.springer.com/chapter/10.1007/978-981-99-7019-3_3
     pdf: https://arxiv.org/pdf/2402.16145
+    slides: assets/files/slides/egal_pof.pdf
 
   - title: Bi-immunity over different size alphabets
     authors: Cristian S. Calude, <strong>Karen Frilya Celine</strong>, Ziyuan Gao, Sanjay Jain, Ludwig Staiger, and Frank Stephan
