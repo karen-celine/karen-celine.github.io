@@ -14,7 +14,7 @@ main:
     authors: <strong>Karen Frilya Celine</strong>, Warut Suksompong, and Sheung Man Yuen
     periodical: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), May&nbsp;2026
     conference: https://ifaamas.org/Proceedings/aamas2026/pdfs/WIZK2813.pdf
-    pdf: https://arxiv.org/abs/2512.17604
+    pdf: https://arxiv.org/pdf/2512.17604
     slides: assets/files/slides/picking_sequences.pdf
 
   - title: Quasi-isometric reductions between infinite strings
