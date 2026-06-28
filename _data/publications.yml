@@ -40,7 +40,7 @@ main:
     pdf: https://arxiv.org/pdf/2402.16145
     slides: assets/files/slides/egal_pof.pdf
 
-  - title: Bi-immunity Over Different Size Alphabets
+  - title: Bi-Immunity Over Different Size Alphabets
     authors: Cristian S. Calude, <strong>Karen Frilya Celine</strong>, Ziyuan Gao, Sanjay Jain, Ludwig Staiger, and Frank Stephan
     periodical: Theoretical Computer Science, Nov&nbsp;2021
     journal: https://www.sciencedirect.com/science/article/pii/S0304397521005181
