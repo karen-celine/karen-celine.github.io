@@ -1,5 +1,5 @@
 main:
 
-  - title: Optimizing the Envy Cycle Elimination Algorithm
-    authors: <strong>Karen Frilya Celine</strong> and Warut Suksompong
-    pdf: https://arxiv.org/pdf/2606.02233
+  - title: Online House Allocation with Subsidy
+    authors: Nicholas Teh, Saar Cohen, <strong>Karen Frilya Celine</strong>, Benjamin Yu, and Michael J. Wooldridge
+    pdf: https://arxiv.org/pdf/2609.29691

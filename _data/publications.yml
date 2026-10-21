@@ -1,5 +1,17 @@
 main:
 
+  - title: Optimizing the Envy Cycle Elimination Algorithm
+    authors: <strong>Karen Frilya Celine</strong> and Warut Suksompong
+    periodical: Proceedings of the 40th Annual Conference on Neural Information Processing Systems (NeurIPS), Dec&nbsp;2026
+    pdf: https://arxiv.org/pdf/2606.02233
+    notes: Forthcoming
+
+  - title: "Characterizing maximum Nash welfare: Envy-freeness and proportionality"
+    authors: <strong>Karen Frilya Celine</strong>, Warut Suksompong, and Nicholas Teh
+    periodical: Economics Letters, Oct&nbsp;2026
+    journal: https://www.sciencedirect.com/science/article/pii/S0165176526005069
+    notes: Forthcoming
+
   - title: On the Fairness of Additive Welfarist Rules
     authors: <strong>Karen Frilya Celine</strong>, Warut Suksompong, and Sheung Man Yuen
     periodical: ACM Transactions on Economics and Computation, Jun&nbsp;2026
