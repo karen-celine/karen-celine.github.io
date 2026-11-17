@@ -4,6 +4,7 @@ main:
     authors: <strong>Karen Frilya Celine</strong> and Warut Suksompong
     periodical: Proceedings of the 40th Annual Conference on Neural Information Processing Systems (NeurIPS), Dec&nbsp;2026
     pdf: https://arxiv.org/pdf/2606.02233
+    code: https://github.com/karen-celine/envy-cycle-elimination-heuristics
     notes: Forthcoming
 
   - title: "Characterizing maximum Nash welfare: Envy-freeness and proportionality"
