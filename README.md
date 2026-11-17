@@ -1,12 +1,7 @@
 # The Minimal Light Theme
-
-[![LICENSE](https://img.shields.io/github/license/Xiao-Chenguang/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/Xiao-Chenguang/minimal-light/blob/main/LICENSE)
-
-\[[Demo the theme](https://xiao-chenguang.github.io/minimal-light/)\]  \[[简体中文](https://github.com/Xiao-Chenguang/minimal-light/blob/master/README_zh_Hans.md) | [繁體中文](https://github.com/Xiao-Chenguang/minimal-light/blob/master/README_zh_Hant.md) | [Deutsche](https://github.com/Xiao-Chenguang/minimal-light/blob/master/README_de.md)\]
  
-*This is a improved fork of yaoyao-liu' homepage. He build this based on [minimal](https://github.com/orderedlist/minimal).*
+*This is a fork of Xiao-Chenguang's [template](https://github.com/Xiao-Chenguang/minimal-light), based on yaoyao-liu's [homepage](https://github.com/yaoyao-liu/minimal-light).*
 <br>
-*Feel free to use and share the source code anywhere you like.*
 
 ## Features
 
@@ -23,10 +18,11 @@
 .
 ├── _data                    
 |   └── publications.yml                      # the YAML file for publications
-|   └── services.yml                          # the YAML file for services
+|   └── working-papers.yml                    # the YAML file for working-papers
 ├── _includes                    
 |   ├── publications.html                     # the Markdown file for publications
 |   └── services.html                         # the Markdown file for services
+|   └── working-papers.html                   # the Markdown file for working-papers
 ├── _layouts                  
 |   └── homepage.html                         #  the html template for the homepage 
 ├── _sass
@@ -39,9 +35,6 @@
 ├── Gemfile                                   #  a RubyGems related file
 ├── LICENSE                                   #  the license file
 ├── README.md                                 #  the readme file (English)
-├── README_de.md                              #  the readme file (German)
-├── README_zh_Hans.md                         #  the readme file (Simplified Chinese)
-├── README_zh_Hant.md                         #  the readme file (Traditional Chinese)
 ├── _config.yml                               #  the Jekyll configuration file, including some options of the page  
 └── index.md                                  #  the content of the index page, using Markdown
 ```
@@ -57,14 +50,14 @@ The detailed instructions are available below.
 
 ### Using with the GitHub Pages Service
 
-There are two ways to use this template on GitHub:
+To use this template on GitHub:
 
 #### Fork this repository
 - Fork this repository (or [use this repository as a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)) and change the name to `your-username.github.io`.
 
 - Enable the GitHub pages for that repository following the steps [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
 
-#### Using this repository as a remote theme
+<!-- #### Using this repository as a remote theme
 To use this theme, add the following to your repository's `_config.yml`:
 
 ```yaml
@@ -73,7 +66,7 @@ remote_theme: Xiao-Chenguang/minimal-light
 
 Please note that adding the above line will directly apply all the default settings in this repository to yours.
 
-If you hope to edit any files (e.g., `index.md`), you still need to copy them to your repository.
+If you hope to edit any files (e.g., `index.md`), you still need to copy them to your repository. -->
 
 ### Using Locally with Jekyll
 
@@ -168,11 +161,11 @@ If you'd like to change the theme's HTML layout, you may edit `_layout/homepage.
 
 ## License
 
-This work is licensed under a [Creative Commons Zero v1.0 Universal](https://github.com/Xiao-Chenguang/minimal-light/blob/master/LICENSE) License.
+This work is licensed under a [Creative Commons Zero v1.0 Universal](https://github.com/karen-celine/karenceline.github.io/blob/master/LICENSE) License.
 
 ## Acknowledgements
 
-This project is a fork of the [yaoyao-liu/minimal-light](https://github.com/yaoyao-liu/minimal-light) repository.
+This project is a fork of the [Xiao-Chenguang/minimal-light](https://github.com/Xiao-Chenguang/minimal-light) repository, which was in turn forked from [yaoyao-liu/minimal-light](https://github.com/yaoyao-liu/minimal-light).
 
 The original project uses the source code from the following repositories:
 
