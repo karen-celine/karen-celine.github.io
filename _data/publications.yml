@@ -1,22 +1,57 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Optimizing the Envy Cycle Elimination Algorithm
+    authors: <strong>Karen Frilya Celine</strong> and Warut Suksompong
+    periodical: Proceedings of the 40th Annual Conference on Neural Information Processing Systems (NeurIPS), Dec&nbsp;2026
+    pdf: https://arxiv.org/pdf/2606.02233
+    notes: Forthcoming
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Characterizing maximum Nash welfare: Envy-freeness and proportionality"
+    authors: <strong>Karen Frilya Celine</strong>, Warut Suksompong, and Nicholas Teh
+    periodical: Economics Letters, Nov&nbsp;2026
+    journal: https://www.sciencedirect.com/science/article/pii/S0165176526005069
+
+  - title: On the Fairness of Additive Welfarist Rules
+    authors: <strong>Karen Frilya Celine</strong>, Warut Suksompong, and Sheung Man Yuen
+    periodical: ACM Transactions on Economics and Computation, Jun&nbsp;2026
+    preliminary: Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), May&nbsp;2025
+    journal: https://dl.acm.org/doi/10.1145/3793253
+    conference: https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p454.pdf
+    pdf: https://arxiv.org/pdf/2412.15472
+    slides: assets/files/slides/welfarist_rules.pdf
+    poster: assets/files/poster/welfarist_rules.pdf
+
+  - title: Comparing the Fairness of Recursively Balanced Picking Sequences
+    authors: <strong>Karen Frilya Celine</strong>, Warut Suksompong, and Sheung Man Yuen
+    periodical: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), May&nbsp;2026
+    conference: https://ifaamas.org/Proceedings/aamas2026/pdfs/WIZK2813.pdf
+    pdf: https://arxiv.org/pdf/2512.17604
+    slides: assets/files/slides/picking_sequences.pdf
+
+  - title: Quasi-Isometric Reductions Between Infinite Strings
+    authors: <strong>Karen Frilya Celine</strong>, Ziyuan Gao, Sanjay Jain, Ryan Lou, Frank Stephan, and Guohua Wu
+    periodical: Journal of Computer and System Sciences, Mar&nbsp;2026
+    preliminary: Proceedings of the 49th International Symposium on Mathematical Foundations of Computer Science (MFCS), Aug&nbsp;2024
+    journal: https://www.sciencedirect.com/science/article/pii/S002200002500100X
+    conference: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.MFCS.2024.37
+    pdf: https://arxiv.org/pdf/2407.14105
+
+  - title: Balancing Fairness and Efficiency in the Allocation of Indivisible Goods
+    authors: <strong>Karen Frilya Celine</strong>
+    periodical: Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), May&nbsp;2025
+    notes: Doctoral Consortium Track
+    conference: https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p2920.pdf
+    slides: assets/files/slides/aamas_dc.pdf
+    poster: assets/files/poster/aamas_dc.pdf
+
+  - title: Egalitarian Price of Fairness for Indivisible Goods
+    authors: <strong>Karen Frilya Celine</strong>, Muhammad Ayaz Dzulfikar, and Ivan Adrian Koswara
+    periodical: Proceedings of the 20th Pacific Rim International Conference on Artificial Intelligence (PRICAI), Nov&nbsp;2023
+    conference: https://link.springer.com/chapter/10.1007/978-981-99-7019-3_3
+    pdf: https://arxiv.org/pdf/2402.16145
+    slides: assets/files/slides/egal_pof.pdf
+
+  - title: Bi-Immunity Over Different Size Alphabets
+    authors: Cristian S. Calude, <strong>Karen Frilya Celine</strong>, Ziyuan Gao, Sanjay Jain, Ludwig Staiger, and Frank Stephan
+    periodical: Theoretical Computer Science, Nov&nbsp;2021
+    journal: https://www.sciencedirect.com/science/article/pii/S0304397521005181
